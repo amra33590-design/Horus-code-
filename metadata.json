@@ -1,0 +1,8 @@
+{
+  "name": "Horus Code",
+  "description": "HORUS CODE | شِفرة حورس: Educational programming app teaching logic through Egyptian hieroglyph-inspired visual language",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
